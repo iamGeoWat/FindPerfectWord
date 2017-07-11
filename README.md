@@ -5,11 +5,11 @@ Just for fun. Find all perfect words in a txt file.
 
 被谷大白话的一条微博启发，“能不能快速找出所有的100分词呢？”  
 
-![image](https://github.com/iamGeoWat/FindPerfectWord/readmeIMG/pic2.jpg)
+![image](https://github.com/iamGeoWat/FindPerfectWord/raw/master/readmeIMG/pic2.jpg)
 
 运行结果如下  
 
-![image](https://github.com/iamGeoWat/FindPerfectWord/readmeIMG/pic1.jpg)
+![image](https://github.com/iamGeoWat/FindPerfectWord/raw/master/readmeIMG/pic1.jpg)
 
 这是六级词汇里所有的100分词↑
 
